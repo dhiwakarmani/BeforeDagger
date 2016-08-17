@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DaggerTwo_Before</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_store">Store</string>
+    <string name="btn_refresh">Refresh</string>
+
+</resources>
